@@ -6,5 +6,6 @@
 
 
 ![devpacheco GitHub stats](https://github-readme-stats.vercel.app/api?username=devpacheco&show_icons=true&theme=radical)
-
- ![Snake animation](https://github.com/devpacheco/devpacheco)
+<div>
+ ![Snake animation](https://github.com/devpacheco/devpacheco/blob/output/github-contribution-grid-snake.svg)
+<div>
