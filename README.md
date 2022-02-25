@@ -1,4 +1,3 @@
-<div align="center">
 ##   Opa, sou o Pacheco (zusk).
 <div align="center">
 
